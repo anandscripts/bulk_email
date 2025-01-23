@@ -1,7 +1,3 @@
-# APP_PASSWORD = "mxzi rveo cvrd hyak"
-# APP_PASSWORD = "xfnj odje nivn llya"
-# I hope this message finds you well. My name is [Name], and I am reaching out to express my keen interest in contributing to the innovative and impactful work being done at [Company Name]. I am keen to contribute to your company in roles such as [Sender's Roles], leveraging my skills and experience to support your company's goals and ongoing success.\n\nI have attached my resume for your review, which provides an overview of my qualifications, relevant projects, and achievements. My diverse skill set and adaptability allow me to contribute effectively in various capacities, and I am eager to bring value to the innovative work being done at [Company Name].\n\nPlease let me know if there are any current or upcoming vacancies that align with my profile. I would be delighted to discuss how my expertise can contribute to your team. You can reach me at [Email].\n\nThank you for considering my application. I look forward to the possibility of connecting.
-
 import smtplib, ssl
 from email.message import EmailMessage
 import csv
